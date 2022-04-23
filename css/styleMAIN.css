@@ -1,0 +1,80 @@
+body {
+    background-color:w whitesmoke;
+    font-family: Courier New;
+    background-image: url(pattern.png);
+}
+.pic {
+  display: block;
+  margin-left: 893px;
+  margin-right: auto;
+}
+.info {
+    font-family: Tahoma;
+}
+p {
+  margin: 0;
+  text-indent: 3ch;
+}
+.image img {
+ -moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
+ }
+ 
+.image img:hover{
+ -webkit-transform: scale(1.05);
+ -moz-transform: scale(2);
+ -o-transform: scale(2);
+    
+ }
+.image {
+margin-top: 100px;
+    margin-left: 300px;
+    width: 80%;
+}
+p {
+padding: 10px;
+    
+}
+.swoosh {
+    display: block;
+  margin-left: 850px;
+  margin-right: auto;
+     width: 10%;
+}
+.adidaslogo {
+     display: block;
+  margin-left: 868px;
+  margin-right: auto;
+     width: 10%;  
+}
+.converselogo {
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+     width: 8%;  
+}
+.vanslogo {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+     width: 10%; 
+}
+.osirislogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+     width: 4%;  
+}
+.reeboklogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
+.jordanlogo {
+    display: block;
+    margin-left: 870px;
+    margin-right: auto;
+    width: 10%;
+}
